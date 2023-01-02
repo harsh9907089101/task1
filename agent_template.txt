@@ -3,8 +3,8 @@
   "kinesis.endpoint": "",
   "firehose.endpoint": "",
 
-  "awsAccessKeyId": "AKIATPF6UVKKKXAGZMBC",
-  "awsSecretAccessKey": "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",
+  "awsAccessKeyId": "AKIA2M64PJXWT6LNTRMB",
+  "awsSecretAccessKey": "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",
 
   "flows": [
     {
